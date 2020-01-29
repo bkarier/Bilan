@@ -1,0 +1,17 @@
+C:\Users\jhoffmann\Documents\Visual Studio 2015\Projects\QuickBOBload\QuickBOBload\bin\Debug\QuickBOBload.exe.config
+C:\Users\jhoffmann\Documents\Visual Studio 2015\Projects\QuickBOBload\QuickBOBload\obj\Debug\QuickBOBload.exe
+C:\Users\jhoffmann\Documents\Visual Studio 2015\Projects\QuickBOBload\QuickBOBload\obj\Debug\QuickBOBload.pdb
+C:\Users\jhoffmann\Documents\Visual Studio 2015\Projects\GenerateurBilan\GenerateurBilan\bin\Debug\QuickBOBload.exe.config
+C:\Users\jhoffmann\Documents\Visual Studio 2015\Projects\GenerateurBilan\GenerateurBilan\obj\Debug\QuickBOBload.exe
+C:\Users\jhoffmann\Documents\Visual Studio 2015\Projects\GenerateurBilan\GenerateurBilan\obj\Debug\QuickBOBload.pdb
+C:\Users\jhoffmann\Documents\Visual Studio 2015\Projects\GenerateurBilan\GenerateurBilan\bin\Debug\QuickBOBload.exe
+C:\Users\jhoffmann\Documents\Visual Studio 2015\Projects\GenerateurBilan\GenerateurBilan\bin\Debug\QuickBOBload.pdb
+C:\Users\jhoffmann\Documents\Visual Studio 2015\Projects\GenerateurBilan\GenerateurBilan\bin\Debug\Advantage.Data.Provider.dll
+C:\Users\jhoffmann\Documents\Visual Studio 2015\Projects\GenerateurBilan\GenerateurBilan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\jhoffmann\Documents\Visual Studio 2015\Projects\GenerateurBilan\GenerateurBilan\obj\Debug\GenerateurBilan.csprojResolveAssemblyReference.cache
+C:\Users\jhoffmann\Documents\Visual Studio 2015\Projects\GenerateurBilan\GenerateurBilan\obj\Debug\QuickBOBload.Form1.resources
+C:\Users\jhoffmann\Documents\Visual Studio 2015\Projects\GenerateurBilan\GenerateurBilan\obj\Debug\QuickBOBload.Properties.Resources.resources
+C:\Users\jhoffmann\Documents\Visual Studio 2015\Projects\GenerateurBilan\GenerateurBilan\obj\Debug\GenerateurBilan.csproj.GenerateResource.Cache
+C:\Users\jhoffmann\Documents\Visual Studio 2015\Projects\GenerateurBilan\GenerateurBilan\bin\Debug\Microsoft.SqlServer.Management.CollectorTasks.dll
+C:\Users\jhoffmann\Documents\Visual Studio 2015\Projects\GenerateurBilan\GenerateurBilan\bin\Debug\Microsoft.SqlServer.SString.dll
+C:\Users\jhoffmann\Documents\Visual Studio 2015\Projects\GenerateurBilan\GenerateurBilan\bin\Debug\Microsoft.SqlServer.SQLTask.dll

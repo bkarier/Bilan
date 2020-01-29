@@ -1,0 +1,11 @@
+c:\users\jhoffmann\documents\visual studio 2015\Projects\QuickBOBload\QuickBOBload\bin\Debug\QuickBOBload.exe.config
+c:\users\jhoffmann\documents\visual studio 2015\Projects\QuickBOBload\QuickBOBload\bin\Debug\QuickBOBload.exe
+c:\users\jhoffmann\documents\visual studio 2015\Projects\QuickBOBload\QuickBOBload\bin\Debug\QuickBOBload.pdb
+c:\users\jhoffmann\documents\visual studio 2015\Projects\QuickBOBload\QuickBOBload\bin\Debug\Advantage.Data.Provider.dll
+c:\users\jhoffmann\documents\visual studio 2015\Projects\QuickBOBload\QuickBOBload\obj\Debug\QuickBOBload.csprojResolveAssemblyReference.cache
+c:\users\jhoffmann\documents\visual studio 2015\Projects\QuickBOBload\QuickBOBload\obj\Debug\QuickBOBload.Properties.Resources.resources
+c:\users\jhoffmann\documents\visual studio 2015\Projects\QuickBOBload\QuickBOBload\obj\Debug\QuickBOBload.csproj.GenerateResource.Cache
+c:\users\jhoffmann\documents\visual studio 2015\Projects\QuickBOBload\QuickBOBload\obj\Debug\QuickBOBload.exe
+c:\users\jhoffmann\documents\visual studio 2015\Projects\QuickBOBload\QuickBOBload\obj\Debug\QuickBOBload.pdb
+C:\Users\jhoffmann\documents\visual studio 2015\Projects\QuickBOBload\QuickBOBload\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\jhoffmann\documents\visual studio 2015\Projects\QuickBOBload\QuickBOBload\obj\Debug\QuickBOBload.Form1.resources
